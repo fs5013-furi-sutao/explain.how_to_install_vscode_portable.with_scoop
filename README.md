@@ -26,7 +26,7 @@ C:\Users\＜ユーザ名＞\scoop\apps\vscode-portable\current\Code.exe
 
 ## ユーザデータの格納場所
 ```
-C:\Users\N_hashimoto\scoop\apps\vscode-portable\current\data
+C:\Users\＜ユーザ名＞\scoop\apps\vscode-portable\current\data
 ```
 
 この data フォルダの中にユーザ設定や拡張機能がすべて保存される。そのため、他の VSCode を利用する際も、この data フォルダを実行する Code.exe の階層に置けば、同じ状態、同じ設定で VSCode を使用することができる。
