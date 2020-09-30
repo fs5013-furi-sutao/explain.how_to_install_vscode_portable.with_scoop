@@ -1,0 +1,2 @@
+# explain.how_to_install_vscode_portable.with_scoop
+Scoop を使って VSCode のポータブル版を導入する方法を説明します
