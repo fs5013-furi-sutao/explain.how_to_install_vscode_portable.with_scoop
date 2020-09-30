@@ -1,5 +1,5 @@
 # explain.how_to_install_vscode_portable.with_scoop
-Scoop を使って VSCode のポータブル版を導入する方法を説明します
+Scoop を使って VSCode のポータブル版を導入する方法を説明する
 
 ## Scoop でインストール
 Scoop に存在するか、どの Buckert にあるかを確認する。
